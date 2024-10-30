@@ -1,0 +1,18 @@
+body{
+    background-color: gray;
+}
+
+
+.timer-container{
+    background-color: aquamarine;
+    border: 5px solid black;
+    border-radius: 5px;
+    margin-top: 19%;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 4rem;
+    margin: 0;
+}
